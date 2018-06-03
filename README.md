@@ -7,3 +7,5 @@ You will need to download:
 - eac3to
 - mkvtoolnix
 
+## Disclaimer
+Still in "beta", issues and pull requests are welcome!
