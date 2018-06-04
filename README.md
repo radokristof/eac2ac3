@@ -1,5 +1,5 @@
 # eac2ac3
-A simple tool using ffmpeg and eac3to to convert audio from E-AC to AC3 on Windows (Batch tool)
+A simple tool using ffmpeg and eac3to to convert audio from E-AC to AC3 on Windows (Batch tool).
 Most new series and movies uses E-AC sound, which is not supported by many (not too old) amplifiers and AV receivers.
 This tool converts the E-AC sound to AC3 in order to solve this problem and be able to enjoy digital (surround) sound.
 
