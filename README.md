@@ -44,9 +44,9 @@ I'm still working on a better solution for this, for example automatically scan 
 
 ```
 @echo off
-call c:\tools\eac2ac3 "f:\Sorozatok\HD\The Grand Tour (2016)\The.Grand.Tour.S02.720p\The.Grand.Tour.S02E01.720p.WEB.H264-STRiFE\the.grand.tour.s02e01.720p.web.h264-strife.mkv"
-call c:\tools\eac2ac3 "f:\Sorozatok\HD\The Grand Tour (2016)\The.Grand.Tour.S02.720p\The.Grand.Tour.S02E02.720p.WEB.h264-SKGTV\the.grand.tour.s02e02.720p.web.h264-skgtv.mkv"
-call c:\tools\eac2ac3 "f:\Sorozatok\HD\The Grand Tour (2016)\The.Grand.Tour.S02.720p\The.Grand.Tour.S02E03.720p.WEB.h264-SKGTV\the.grand.tour.s02e03.720p.web.h264-skgtv.mkv"
+call eac2ac3 "f:\Sorozatok\HD\The Grand Tour (2016)\The.Grand.Tour.S02.720p\The.Grand.Tour.S02E01.720p.WEB.H264-STRiFE\the.grand.tour.s02e01.720p.web.h264-strife.mkv"
+call eac2ac3 "f:\Sorozatok\HD\The Grand Tour (2016)\The.Grand.Tour.S02.720p\The.Grand.Tour.S02E02.720p.WEB.h264-SKGTV\the.grand.tour.s02e02.720p.web.h264-skgtv.mkv"
+call eac2ac3 "f:\Sorozatok\HD\The Grand Tour (2016)\The.Grand.Tour.S02.720p\The.Grand.Tour.S02E03.720p.WEB.h264-SKGTV\the.grand.tour.s02e03.720p.web.h264-skgtv.mkv"
 ```
 
 - Save this file as .bat and you can run it. It will convert all .mkv files which you copied into your new batch file.
