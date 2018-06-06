@@ -15,9 +15,9 @@ Normally, the given file become bigger, because a new sound channel will be adde
 
 ## How to install
 You will need to download:
-- [ffmpeg] (https://www.ffmpeg.org/download.html) 
-- [eac3to] (https://www.videohelp.com/software/eac3to)
-- [mkvtoolnix] (https://mkvtoolnix.download/)
+- [ffmpeg](https://www.ffmpeg.org/download.html) 
+- [eac3to](https://www.videohelp.com/software/eac3to)
+- [mkvtoolnix](https://mkvtoolnix.download/)
 
 Installing:
 - Create a folder for this tool somewhere on your hard drive.
@@ -34,7 +34,7 @@ For example:
 ```
 eac2ac3.bat "d:\download\YourMovie.mkv"
 ```
-* Warning! This tool will copy your mkv file into that folder where "eac2ac3.bat" can be found. So it maybe a good option to place this tool on that drive where your movie files are. I'm working on a better solution for this! *
+*Warning! This tool will copy your mkv file into that folder where "eac2ac3.bat" can be found. So it maybe a good option to place this tool on that drive where your movie files are. I'm working on a better solution for this!*
 
 For converting more files (eg.: a TV series) just simply create a batch file where you call the "eac2ac3.bat" just as many time as you want.  
 I'm still working on a better solution for this, for example automatically scan the given folder and convert all .mkv files in that folder...
