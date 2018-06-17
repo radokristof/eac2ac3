@@ -21,7 +21,7 @@ You will need to download:
 
 Installing:
 - Create a folder for this tool somewhere on your hard drive.
-- Clone this repo and place the files into that created folder (or download this repo as zip and place eac2ac3.bat and deletetrack.bat into your folder).
+- Clone this repo and place the files into that created folder (or download the latest release on the Releases page as .zip and place the files in the zip to your folder).
 - Create a folder in that folder called "ffmpeg" and unzip the downloaded ffmpeg into that folder.
 - Create another folder in your folder called "eac3to" and place eac3to in that folder.
 - Create a third folder "mkvtoolnix" and place mkvtoolnix in that folder.
@@ -54,6 +54,9 @@ call eac2ac3 "f:\Sorozatok\HD\The Grand Tour (2016)\The.Grand.Tour.S02.720p\The.
 ### Delete track
 This is just a simple help tool to delete the created ac3 sound from a file.  
 Works as the "eac2ac3.bat" just give the file as parameter, in which you want to delete the created ac3 file.  
+
+### Known issues
+For me, it sometimes cuts the end of the file... Still don't know why, if anyone finds out, please make an issue regarding the cause of the problem.
 
 ### Disclaimer
 Still in "beta".  
