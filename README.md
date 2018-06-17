@@ -21,7 +21,7 @@ You will need to download:
 
 Installing:
 - Create a folder for this tool somewhere on your hard drive.
-- Clone this repo and place the files into that created folder (or download the latest release on the Releases page as .zip and place the files in the zip to your folder).
+- Clone this repo and place the files into that created folder (or download the latest release on the Releases page as .zip and place the files in the zip to your folders).
 - Create a folder in that folder called "ffmpeg" and unzip the downloaded ffmpeg into that folder.
 - Create another folder in your folder called "eac3to" and place eac3to in that folder.
 - Create a third folder "mkvtoolnix" and place mkvtoolnix in that folder.
