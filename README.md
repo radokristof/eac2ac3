@@ -56,9 +56,10 @@ This is just a simple help tool to delete the created ac3 sound from a file.
 Works as the "eac2ac3.bat" just give the file as parameter, in which you want to delete the created ac3 file.  
 
 ### Known issues
-~~For me, it sometimes cuts the end of the file... Still don't know why, if anyone finds out, please make an issue regarding the cause of the problem.~~  
-Seems that this issue is solved with the timeout, please report if it is not working correctly for you.
+No known errors are present now. Please report if you encounter any error.
+
+### Future developments
+- Have a simple GUI where you can convert easily audio tracks from MKV files (any audio source to any target source) with converting options (delete original track / keep original track, etc...)
 
 ### Disclaimer
-Still in "beta".  
 Issues and pull requests are welcome!  
