@@ -1,0 +1,10 @@
+D:\Work\githhub_projects\eac2ac3\eac2ac3\eac2ac3\bin\Debug\eac2ac3.exe.config
+D:\Work\githhub_projects\eac2ac3\eac2ac3\eac2ac3\bin\Debug\eac2ac3.exe
+D:\Work\githhub_projects\eac2ac3\eac2ac3\eac2ac3\bin\Debug\eac2ac3.pdb
+D:\Work\githhub_projects\eac2ac3\eac2ac3\eac2ac3\obj\Debug\eac2ac3.csprojAssemblyReference.cache
+D:\Work\githhub_projects\eac2ac3\eac2ac3\eac2ac3\obj\Debug\eac2ac3.Form1.resources
+D:\Work\githhub_projects\eac2ac3\eac2ac3\eac2ac3\obj\Debug\eac2ac3.Properties.Resources.resources
+D:\Work\githhub_projects\eac2ac3\eac2ac3\eac2ac3\obj\Debug\eac2ac3.csproj.GenerateResource.cache
+D:\Work\githhub_projects\eac2ac3\eac2ac3\eac2ac3\obj\Debug\eac2ac3.csproj.CoreCompileInputs.cache
+D:\Work\githhub_projects\eac2ac3\eac2ac3\eac2ac3\obj\Debug\eac2ac3.exe
+D:\Work\githhub_projects\eac2ac3\eac2ac3\eac2ac3\obj\Debug\eac2ac3.pdb
